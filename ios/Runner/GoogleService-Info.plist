@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>787886638263-pt4171dg9c59jncqi0ba50rpm8jc2ont.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.787886638263-pt4171dg9c59jncqi0ba50rpm8jc2ont</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDpNH1x_-RIT71LX7zEAuxv2toplH8eBsc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>787886638263</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.paublo.flowers0</string>
+	<key>PROJECT_ID</key>
+	<string>flowers-64dcc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flowers-64dcc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:787886638263:ios:d9d6af41423bdc6cf73932</string>
+	<key>DATABASE_URL</key>
+	<string>https://flowers-64dcc-default-rtdb.europe-west1.firebasedatabase.app</string>
+    
+</dict>
+</plist>
